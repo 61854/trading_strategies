@@ -1,1 +1,1 @@
-# trading_strategies
+# Implementation of fibonacci trading strategy
